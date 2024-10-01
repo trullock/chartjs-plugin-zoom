@@ -1,7 +1,7 @@
 {
   "name": "@trullock/chartjs-plugin-zoom",
   "description": "Plugin that enables zoom and pan functionality in Chart.js charts.",
-  "version": "2.1.5",
+  "version": "2.1.6",
   "license": "MIT",
   "jsdelivr": "dist/@trullock/chartjs-plugin-zoom.min.js",
   "unpkg": "dist/@trullock/chartjs-plugin-zoom.min.js",

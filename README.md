@@ -1,12 +1,18 @@
 # chartjs-plugin-zoom
 
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/chartjs/chartjs-plugin-zoom/ci.yml)](https://github.com/chartjs/chartjs-plugin-zoom/actions/workflows/ci.yml)
-[![Coverage Status](https://coveralls.io/repos/github/chartjs/chartjs-plugin-zoom/badge.svg?branch=master)](https://coveralls.io/github/chartjs/chartjs-plugin-zoom?branch=master)
-[![release](https://img.shields.io/github/v/release/chartjs/chartjs-plugin-zoom?include_prereleases)](https://github.com/chartjs/chartjs-plugin-zoom/releases)
-[![npm (latest)](https://img.shields.io/npm/v/chartjs-plugin-zoom/latest)](https://www.npmjs.com/package/chartjs-plugin-zoom/v/latest)
-[![npm (next)](https://img.shields.io/npm/v/chartjs-plugin-zoom/next)](https://www.npmjs.com/package/chartjs-plugin-zoom/v/next)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/trullock/chartjs-plugin-zoom/ci.yml)](https://github.com/trullock/chartjs-plugin-zoom/actions/workflows/ci.yml)
+[![Coverage Status](https://coveralls.io/repos/github/trullock/chartjs-plugin-zoom/badge.svg?branch=master)](https://coveralls.io/github/trullock/chartjs-plugin-zoom?branch=master)
+[![release](https://img.shields.io/github/v/release/trullock/chartjs-plugin-zoom?include_prereleases)](https://github.com/trullock/chartjs-plugin-zoom/releases)
+[![npm (latest)](https://img.shields.io/npm/v/@trullock/chartjs-plugin-zoom/latest)](https://www.npmjs.com/package/@trullock/chartjs-plugin-zoom/v/latest)
+[![npm (next)](https://img.shields.io/npm/v/@trullock/chartjs-plugin-zoom/next)](https://www.npmjs.com/package/@trullock/chartjs-plugin-zoom/v/next)
 [![documentation](https://img.shields.io/static/v1?message=Documentation&color=informational)](https://www.chartjs.org/chartjs-plugin-zoom/index)
 <a href="https://github.com/chartjs/awesome"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
+
+## This Fork
+
+This fork contains various bug fixes and PRs from the main repos, and is published on npm as @trullock/chartjs-plugin-zoom because maintenance on the main repos seems to be dead. If it comes back to life let me know and I'll wind this down.
+
+## Docs
 
 A zoom and pan plugin for Chart.js >= 3.0.0
 
